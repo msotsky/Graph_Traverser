@@ -1,0 +1,10 @@
+For start node:  E
+
+Unreachable:  A B C D F G H I J K L M
+(everything except E)
+
+Pre-order depth-first:  E
+
+Post-order depth-first:  E
+ 
+Breath-first:  E

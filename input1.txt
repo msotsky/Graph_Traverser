@@ -1,0 +1,20 @@
+8 11
+bob
+gina
+alice
+edward
+fran
+holly
+donna
+charles
+fran gina
+charles bob
+alice holly
+donna alice
+charles alice
+fran charles
+charles edward
+donna edward
+edward charles
+charles gina
+bob gina

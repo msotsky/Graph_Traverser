@@ -1,0 +1,17 @@
+For start node:  XY
+
+Unreachable:  25 nodes
+- first 4 nodes:  AW BO BZ DU
+- last 4 nodes:   VR WD XO YG
+
+Pre-order depth-first:
+- first 4 nodes:  XY KO AQ CR
+- last 4 nodes:   LN XW YR XJ
+
+Post-order depth-first:
+- first 4 nodes:  AP DC OQ IQ
+- last 4 nodes:   CR AQ KO XY
+ 
+Breath-first:
+- first 4 nodes:  XY KO LS NL
+- last 4 nodes:   NO IZ IX KR

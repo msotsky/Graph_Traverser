@@ -1,0 +1,9 @@
+For start node:  donna
+
+Unreachable:  fran
+
+Pre-order depth-first:  donna, alice, holly, edward, charles, bob, gina
+
+Post-order depth-first:  holly, alice, gina, bob, charles, edward, donna
+
+Breath-first:  donna, alice, edward, holly, charles, bob, gina

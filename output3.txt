@@ -1,0 +1,9 @@
+For start node:  b
+
+Unreachable:  -none-
+
+Pre-order depth-first:  b a c d
+
+Post-order depth-first:  d c a b
+ 
+Breath-first:  b a c d
